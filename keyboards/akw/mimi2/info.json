@@ -1,0 +1,19 @@
+{
+    "keyboard_name": "mimi",
+    "maintainer": "akowal",
+    "layouts": {
+        "LAYOUT_split_3x5_5": {
+            "layout": [
+                {"label":"L00", "x":0, "y":0},
+
+                {"label":"LT3", "x":4, "y":3},
+                {"label":"LT4", "x":4, "y":3},
+                {"label":"RT0", "x":4, "y":3},
+                {"label":"RT1", "x":4, "y":3},
+                {"label":"RT2", "x":4, "y":3},
+                {"label":"RT3", "x":4, "y":3},
+                {"label":"RT4", "x":4, "y":3}
+            ]
+        }
+    }
+}
